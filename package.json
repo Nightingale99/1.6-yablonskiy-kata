@@ -1,7 +1,7 @@
 {
   "name": "1.6yablonskiykata",
   "version": "1.0.0",
-  "homepage": "https://nightingale99.github.io/1.6-yablonskiy-kata/",
+  "homepage": "git+https://github.com/Nightingale99/1.6-yablonskiy-kata.git",
   "description": "",
   "main": "index.js",
   "keywords": [],
